@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bilal Boulaalam 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> at <b>Majestic Engineering Consultants</b> · Abu Dhabi, UAE<br/>
+  <b>AI Engineer</b> at <a href="https://github.com/majestic-engineering-consultants"><b>Majestic Engineering Consultants</b></a> · Abu Dhabi, UAE<br/>
   Software Engineering graduate, Near East University
 </p>
 
